@@ -8,7 +8,7 @@ Unfortunately you keep planning but you forget because you have nowhere to keep 
 ## Solution
 From the skillls we have learnt from Moringa, I want you to come up with the following system. 
 
-Create a system that will use the do the following:
+Create a system that will do the following:
 - As a user I should be able t login into the system.
 - As user I should authenticate myself during login and be authorized as a user
 - As a user I should be taken to a landing page that shows the following
